@@ -1,17 +1,17 @@
 [[qwt]]
 arch = "x86_64"
-git-tree-sha1 = "52cff6b1e39a034624ca4d74eb0ef473086b2418"
+git-tree-sha1 = "52f58d71fbcc7d784c888f93034bad4bec284575"
 libc = "glibc"
 os = "linux"
 
     [[qwt.download]]
-    sha256 = "5f26730f7b2767a5abd7bfb9cd8ab127b631665276406e7fabce9af9806efc1f"
-    url = "https://github.com/JuliaBinaryWrappers/qwt_jll.jl/releases/download/qwt-v6.0.0+0/qwt.v6.0.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "5ea0ccd0b2f08b75eb8194e2e01e698a743a18c4c297d721add6a559707f4886"
+    url = "https://github.com/JuliaBinaryWrappers/qwt_jll.jl/releases/download/qwt-v6.0.0+1/qwt.v6.0.0.x86_64-linux-gnu.tar.gz"
 [[qwt]]
 arch = "x86_64"
-git-tree-sha1 = "d9af2a5f3a715a01bd84f9ef0f03984103caf149"
+git-tree-sha1 = "0e3d2257ece66c52ce1994014f227a545e761e7d"
 os = "windows"
 
     [[qwt.download]]
-    sha256 = "bcdf9c2aa124ba21c047a1d0bc6b6a31f6e48faccb0b33010869ee05cbe2886c"
-    url = "https://github.com/JuliaBinaryWrappers/qwt_jll.jl/releases/download/qwt-v6.0.0+0/qwt.v6.0.0.x86_64-w64-mingw32.tar.gz"
+    sha256 = "0946fd2fa2fc2a2383c4008ca3cd571cff66dea45820489117086abb7d094d61"
+    url = "https://github.com/JuliaBinaryWrappers/qwt_jll.jl/releases/download/qwt-v6.0.0+1/qwt.v6.0.0.x86_64-w64-mingw32.tar.gz"
